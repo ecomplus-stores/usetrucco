@@ -3,28 +3,18 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/12e3fa23-630f-4a6d-9e8f-d46cfc6dd501.webp",
-          "link": "",
-          "alt": "",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/547cd320-2026-43f3-8a09-8b15b355af75.webp",
-          "alt": "",
-          "start": "",
-          "end": ""
-        }
-      ]
+      "type": "collection-shelf",
+      "shuffle": true,
+      "collection_id": null,
+      "headless": false,
+      "sort": "news",
+      "title": "LANÇAMENTOS"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
-      "collection_id": null
+      "sort": "sales",
+      "title": "OS MODELOS MAIS DESEJADOS"
     }
   ]
 }
