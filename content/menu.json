@@ -1,5 +1,11 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "moletons",
+    "blusas",
+    "calcas",
+    "saias",
+    "outlet"
+  ],
   "phone_wpp": true,
   "socials": true
 }
