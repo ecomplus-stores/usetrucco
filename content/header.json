@@ -8,7 +8,7 @@
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Esta loja é um PWA",
+        "title": "BAIXE NOSSO APP, CLIQUE AQUI!",
         "link": "/posts/esta-loja-e-um-pwa"
       }
     ],
@@ -17,7 +17,7 @@
   },
   "categories_list": {
     "featured": [],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "search_input": true
