@@ -6,8 +6,10 @@
   padding-left: .2rem;
   padding-right: .2rem;
 }
-.search-engine__retail .col-lg-3 {
+@media(min-width: 992px) {
+  .search-engine__retail .col-lg-3 {
   width: 33.33% !important;
   flex: 0 0 33.33%;
   max-width: 33.33%;
+  }
 }
