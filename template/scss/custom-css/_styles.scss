@@ -1,1 +1,13 @@
 // Add your custom CSS here.
+.product-card, .products-carousel__item {
+  padding: 0;
+}
+.search-engine__retail .row .col-6.col-md-4.col-lg-3, .search-engine__results .container {
+  padding-left: .2rem;
+  padding-right: .2rem;
+}
+.search-engine__retail .col-lg-3 {
+  width: 33.33% !important;
+  flex: 0 0 33.33%;
+  max-width: 33.33%;
+}
