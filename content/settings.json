@@ -1,12 +1,12 @@
 {
   "domain": "usetrucco.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#c91800",
+  "primary_color": "#000000",
   "theme": {
     "bootswatch": "yeti",
     "custom": "clean-white"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "logo": "/img/uploads/trucco-atemporale-preto.png",
   "name": "TRUCCO, atemporale",
   "short_name": "TRUCCO",
