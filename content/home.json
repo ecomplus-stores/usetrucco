@@ -3,8 +3,16 @@
   "meta_description": "",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/_alb3622-compressed.jpg"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "2020-10-01T20:49:56.874Z",
+          "end": "",
+          "img": "/img/uploads/_alb3622-compressed.jpg",
+          "mobile_img": "/img/uploads/_alb3622-compressed.jpg"
+        }
+      ]
     },
     {
       "type": "collection-shelf",
