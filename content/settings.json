@@ -7,7 +7,7 @@
     "custom": "clean-white"
   },
   "bg_color": "#000000",
-  "logo": "/img/uploads/trucco-atemporale-preto.png",
+  "logo": "/img/uploads/trucco-atemporale-branco.png",
   "name": "TRUCCO, atemporale",
   "short_name": "TRUCCO",
   "lang": "pt_br",
@@ -16,7 +16,7 @@
   "favicon": "/img/uploads/trucco-atemporale-preto.png",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/uploads/trucco-atemporale-preto.png",
+  "icon": "/img/uploads/trucco-atemporale-branco.svg",
   "store_id": 1166,
   "description": "  ",
   "large_icon": "/img/uploads/trucco-atemporale-preto.png"
