@@ -13,3 +13,46 @@
   max-width: 33.33%;
   }
 }
+#product-actions .product__buy {
+  margin-top: 1.5rem;
+}
+#modal-size-guide {
+  @media(min-width: 1200px) {
+    .modal-dialog {
+      max-width: 1140px
+    }
+  }
+  @media screen and (max-width: 199px) and (min-width: 992px) {
+    .modal-dialog {
+      max-width: 960px;
+    }
+  }
+  @media screen and (max-width: 991px) and (min-width: 768px) {
+    .modal-dialog {
+      max-width: 720px;
+    }
+  }
+  @media(max-width: 480px) {
+    .modal-dialog {
+      max-width: 100%;
+      width: 100%;
+      margin: 0;
+      margin-top: 4rem !important;
+    }
+    .modal-header {
+      display: none !important;
+    }
+    .modal-body {
+      padding: 0;
+    }
+    #close-mobile {
+     display: flex !important;
+     align-items: center;
+     justify-content: flex-end;
+    }
+  }
+
+  img {
+    max-width: 100%;
+  }
+}
