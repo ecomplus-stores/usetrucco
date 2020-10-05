@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
     "text": "Receba ainda hoje sua compra! Saiba mais.",
-    "link": "/promotion",
+    "link": "https://www.usetrucco.com.br/pages/entrega",
     "background": "#40413d",
     "color": "#ffffff"
   },
