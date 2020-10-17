@@ -6,12 +6,7 @@
     "color": "#ffffff"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "BAIXE NOSSO APP, CLIQUE AQUI!",
-        "link": "/posts/esta-loja-e-um-pwa"
-      }
-    ],
+    "pages": [],
     "phone_wpp": false,
     "socials": false
   },
