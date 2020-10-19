@@ -16,7 +16,7 @@
 #product-actions .product__buy {
   margin-top: 1.5rem;
 }
-#modal-size-guide {
+#modal-size-guide, #modal-check {
   @media(min-width: 1200px) {
     .modal-dialog {
       max-width: 1140px
@@ -55,10 +55,16 @@
   img {
     max-width: 100%;
   }
+  .modal-body {
+    text-align: center;
+  }
 }
 .product__info.lead {
   display: none;
 }
 .order-info__toggle {
 display: none !important
+}
+#checkToPay .form-check {
+  text-align: right;
 }
