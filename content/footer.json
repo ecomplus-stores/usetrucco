@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "INFORMAÇÕES",
-    "list": []
+    "list": [
+      {
+        "url": "https://corner.usetrucco.com.br/",
+        "text": "TORNE-SE UM REVENDEDOR"
+      }
+    ]
   },
   "links_2": {
     "list_categories": false,
