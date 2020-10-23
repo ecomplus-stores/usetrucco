@@ -4,12 +4,48 @@
     "text": ""
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "INFORMAÇÕES",
     "list": [
       {
+        "url": "https://www.usetrucco.com.br/pages/sobre-nos",
+        "text": "SOBRE A TRUCCO"
+      },
+      {
         "url": "https://corner.usetrucco.com.br/",
         "text": "TORNE-SE UM REVENDEDOR"
+      },
+      {
+        "text": "TROCAR OU DEVOLVER",
+        "url": "https://www.usetrucco.com.br/pages/trocas"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/contato",
+        "text": "FALE CONOSCO"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/compra-presencial",
+        "text": "COMPRA PRESENCIAL"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/entrega",
+        "text": "SOBRE ENTREGAS"
+      },
+      {
+        "text": "PRIVACIDADE",
+        "url": "https://www.usetrucco.com.br/pages/privacidade"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/regras-para-outlet",
+        "text": "REGRAS PARA OUTLET"
+      },
+      {
+        "text": "REGRAS PARA SALE",
+        "url": "https://www.usetrucco.com.br/pages/regras-para-sale"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/solicitacao-de-reparos",
+        "text": "SOLICITAÇÃO DE REPAROS"
       }
     ]
   },
