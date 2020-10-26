@@ -1,8 +1,3 @@
-[[redirects]]
-  from = "/sobre-a-marca"
-  to = "/pages/sobre-nos"
-  status = 301
-
 [build]
   publish = "publish"
   functions = "functions-zip"
