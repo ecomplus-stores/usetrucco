@@ -5,7 +5,15 @@
       "enabled": false
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "product-block",
+      "enabled": true
+    },
+    {
+      "type": "product-description",
       "enabled": true
     },
     {
@@ -15,14 +23,6 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "product-description",
-      "enabled": true
-    },
-    {
-      "type": "product-specifications",
-      "enabled": true
     }
   ]
 }
