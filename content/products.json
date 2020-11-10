@@ -5,11 +5,11 @@
       "enabled": false
     },
     {
-      "type": "product-specifications",
+      "type": "product-block",
       "enabled": true
     },
     {
-      "type": "product-block",
+      "type": "product-specifications",
       "enabled": true
     },
     {
