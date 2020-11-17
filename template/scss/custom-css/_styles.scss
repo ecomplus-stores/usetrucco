@@ -68,3 +68,18 @@ display: none !important
 #checkToPay .form-check {
   text-align: right;
 }
+.info-additional li {
+  i {
+    margin-right: 14px;
+    float: left;
+    height: 30px;
+  }
+  list-style: none;
+  border-bottom: 1px solid #fff;
+  padding: 12px 14px;
+}
+.info-additional ul {
+  background-color: #F5F5F5;
+  border: var(--border-width) solid var(--border-color);
+  padding: 0px;
+}

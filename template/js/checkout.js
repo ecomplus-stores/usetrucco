@@ -4,6 +4,14 @@ import cartChange from '@ecomplus/shopping-cart'
 
 window.ecomShippingApps = [111223, 1251, 1250]
 
+if (window.storefrontApp.router.currentRoute.name === 'checkout') {
+  window.storefront.on('widget:@ecomplus/widget-fb-pixel', function () {
+    setTimeout(function () {
+      document.querySelector('a[data-intermediator="mercadopago"]').click()
+      console.log('entrei')
+    }, 15000)
+  })
+}
 cartChange.on('change', ({ data }) => {
   const location = window.location.hash.split('/')[window.location.hash.split('/').length - 1]
   const aparecerModal = false
