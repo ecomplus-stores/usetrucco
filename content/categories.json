@@ -17,7 +17,8 @@
     },
     {
       "type": "category-retail",
-      "enabled": true
+      "enabled": true,
+      "sort": "slug"
     }
   ]
 }
