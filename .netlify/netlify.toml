@@ -2,6 +2,11 @@
   from = "/sobre-a-marca"
   to = "/pages/sobre-nos"
   status = 301
+  
+[[redirects]]
+  from = "/calca-allure-preta"
+  to = "/cala-allure-preta"
+  status = 301
 
 [build]
   publish = "publish"
