@@ -25,7 +25,7 @@
       },
       {
         "url": "https://www.usetrucco.com.br/pages/compra-presencial",
-        "text": "COMPRA PRESENCIAL"
+        "text": "SHOWROOM SP"
       },
       {
         "url": "https://www.usetrucco.com.br/pages/entrega",
@@ -38,10 +38,6 @@
       {
         "url": "https://www.usetrucco.com.br/pages/regras-para-outlet",
         "text": "REGRAS PARA OUTLET"
-      },
-      {
-        "text": "REGRAS PARA SALE",
-        "url": "https://www.usetrucco.com.br/pages/regras-para-sale"
       },
       {
         "url": "https://form.typeform.com/to/DGP3o41U",
@@ -58,6 +54,10 @@
       {
         "text": "PROMOÇÃO NATAL TRUCCO 2020",
         "url": "https://www.usetrucco.com.br/pages/natal-trucco-2020"
+      },
+      {
+        "url": "https://form.typeform.com/to/bltH59zk",
+        "text": "MALINHA DELIVERY"
       }
     ]
   },
