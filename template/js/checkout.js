@@ -7,9 +7,9 @@ window.ecomShippingApps = [111223, 1251, 1250]
 if (window.storefrontApp.router.currentRoute.name === 'checkout') {
   window.storefront.on('widget:@ecomplus/widget-fb-pixel', function () {
     setTimeout(function () {
-      document.querySelector('a[data-intermediator="mercadopago"]').click()
-      console.log('entrei')
-    }, 15000)
+      var x = document.querySelectorAll('[data-intermediator=paghiper]')
+      x[0].remove()
+    }, 1000)
   })
 }
 cartChange.on('change', ({ data }) => {
