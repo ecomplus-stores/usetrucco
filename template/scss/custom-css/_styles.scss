@@ -84,11 +84,14 @@ display: none !important
   padding: 0px;
 }
 .order-info__transaction-code:before {
-  content: "Pix Copia e Cola"
+  content: "Pix Copia e Cola - "
 }
-.order-info__transaction-code .btn.btn-sm.btn-light > i.fas.fa-copy.mr-1 {
-  font-size: 1rem !important;
-  &::after {
-    content: "PIX"
+.order-info__transaction-code .btn.btn-sm.btn-light {
+    &::after {
+    content: " PIX"
   }
+  & > i.fas.fa-copy.mr-1 {
+  font-size: 1rem !important;
+}
+
 }
