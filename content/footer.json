@@ -8,36 +8,32 @@
     "title": "INFORMAÇÕES",
     "list": [
       {
-        "url": "https://www.usetrucco.com.br/pages/sobre-nos",
-        "text": "SOBRE A TRUCCO"
-      },
-      {
-        "url": "https://form.typeform.com/to/uxvK0kgW",
-        "text": "REVENDEDORA AUTORIZADA"
-      },
-      {
-        "text": "TROCAR OU DEVOLVER",
-        "url": "https://form.typeform.com/to/U2Vxtgk3"
-      },
-      {
         "url": "https://www.usetrucco.com.br/pages/contato",
         "text": "FALE CONOSCO"
+      },
+      {
+        "url": "https://www.usetrucco.com.br/pages/sobre-nos",
+        "text": "SOBRE A TRUCCO"
       },
       {
         "url": "https://www.usetrucco.com.br/pages/compra-presencial",
         "text": "SHOWROOM SP"
       },
       {
-        "url": "https://www.usetrucco.com.br/pages/entrega",
-        "text": "SOBRE ENTREGAS"
+        "text": "TROCAR OU DEVOLVER",
+        "url": "https://form.typeform.com/to/U2Vxtgk3"
       },
       {
-        "text": "PRIVACIDADE",
-        "url": "https://www.usetrucco.com.br/pages/privacidade"
+        "url": "https://form.typeform.com/to/uxvK0kgW",
+        "text": "REVENDA AUTORIZADA"
       },
       {
         "url": "https://www.usetrucco.com.br/pages/regras-para-outlet",
         "text": "REGRAS PARA OUTLET"
+      },
+      {
+        "text": "REGRAS SALE",
+        "url": "https://www.usetrucco.com.br/pages/regras-para-sale"
       },
       {
         "url": "https://form.typeform.com/to/DGP3o41U",
@@ -48,20 +44,12 @@
         "text": "AJUSTE DE BARRAS"
       },
       {
-        "text": "BLACK FRIDAY 2020",
-        "url": "https://www.usetrucco.com.br/pages/black-friday-2020"
+        "url": "https://www.usetrucco.com.br/pages/entrega",
+        "text": "SOBRE ENTREGAS"
       },
       {
-        "text": "PROMOÇÃO NATAL TRUCCO 2020",
-        "url": "https://www.usetrucco.com.br/pages/natal-trucco-2020"
-      },
-      {
-        "url": "https://form.typeform.com/to/bltH59zk",
-        "text": "MALINHA DELIVERY"
-      },
-      {
-        "text": "REGRAS SALE",
-        "url": "https://www.usetrucco.com.br/pages/regras-para-sale"
+        "text": "PRIVACIDADE",
+        "url": "https://www.usetrucco.com.br/pages/privacidade"
       }
     ]
   },
