@@ -1,6 +1,16 @@
 {
   "hosting": {
     "redirects": [
+      {
+        "source": "/sobre-a-marca",
+        "destination": "/pages/sobre-nos",
+        "type": 301
+      },
+      {
+        "source": "/calca-allure-preta",
+        "destination": "/cala-allure-preta",
+        "type": 301
+      }
     ],
     "public": "dist",
     "ignore": [
