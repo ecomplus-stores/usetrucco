@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.787ce85a777fdb0c6f2689fe70ef03d3.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.f1650ee2cb1f199a0857c1b701477eed.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6a429df40d8574217931c2ca0c3e35d5.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.1c86785ad6b4116a76b88e83641dbf32.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ab6ba1903b9fabaf27ca14f1ac71351b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "TRUCCO, atemporale",
+  "short_name": "TRUCCO",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": " ",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
