@@ -22,7 +22,7 @@
       max-width: 1140px
     }
   }
-  @media screen and (max-width: 199px) and (min-width: 992px) {
+  @media screen and (max-width: 1999px) and (min-width: 992px) {
     .modal-dialog {
       max-width: 960px;
     }
@@ -44,6 +44,10 @@
     }
     .modal-body {
       padding: 0;
+    }
+    .search__box .search-engine__retail .row {
+      margin-right: 0px;
+      margin-left: 0px;
     }
     #close-mobile {
      display: flex !important;
