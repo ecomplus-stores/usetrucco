@@ -12,6 +12,12 @@
   flex: 0 0 33.33%;
   max-width: 33.33%;
   }
+  .embed-responsive.embed-responsive-16by9 {
+    height: 500px;
+  }
+}
+.embed-responsive.embed-responsive-16by9 {
+  height: 400px;
 }
 #product-actions .product__buy {
   margin-top: 1.5rem;
