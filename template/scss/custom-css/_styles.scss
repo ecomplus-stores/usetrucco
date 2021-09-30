@@ -1,6 +1,6 @@
 // Add your custom CSS here.
 // personalizacao checkout
-#storefront-app .valor_atacado {
+#storefront-app .valor_atacado, #storefront-app .varejo, .minicart__aside .varejo, .minicart__aside .valor_atacado {
   display: none !important;
 }
 .search-engine__retail {
