@@ -1,4 +1,24 @@
 // Add your custom CSS here.
+// personalizacao checkout
+#storefront-app .valor_atacado {
+  display: none !important;
+}
+.search-engine__retail {
+  .prices {
+    display: none;
+  }
+  .product-card__name {
+    text-align: center;
+  }
+}
+.atacado-price strong::after {
+  content: " + FRETE GRÁTIS";
+  font-weight: normal;
+  font-size: 1.5rem;
+}
+.valor_atacado .prices__installments {
+  padding-bottom: .5rem;
+}
 .product-card, .products-carousel__item {
   padding: 0;
 }
