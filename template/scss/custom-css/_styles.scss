@@ -3,6 +3,9 @@
 #storefront-app .valor_atacado, #storefront-app .varejo, .minicart__aside .varejo, .minicart__aside .valor_atacado {
   display: none !important;
 }
+.top-bar__nav {
+  display: none !important;
+}
 .search-engine__retail {
   .prices {
     display: none;
