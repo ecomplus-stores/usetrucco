@@ -10,6 +10,11 @@
         "source": "/calca-allure-preta",
         "destination": "/cala-allure-preta",
         "type": 301
+      },
+      {
+        "source": "/couro",
+        "destination": "/calcas-premium",
+        "type": 301
       }
     ],
     "public": "dist",
