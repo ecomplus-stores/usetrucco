@@ -1,6 +1,6 @@
 {
-  "meta_title": "",
-  "meta_description": "",
+  "meta_title": "Moda feminina atemporal e com estilo, para todas as mulheres",
+  "meta_description": "Calças prada, skinny, flare, calças cenoura, alfaiataria e muito mais",
   "sections": [
     {
       "type": "banner-slider",
@@ -11,8 +11,22 @@
           "end": "",
           "img": "/img/uploads/_alb3622-compressed.jpg",
           "mobile_img": "/img/uploads/_alb3622-compressed.jpg"
+        },
+        {
+          "start": "2021-10-23T02:57:31.601Z",
+          "end": "2021-10-23T02:57:31.628Z",
+          "link": "template/public/img/uploads/showoom1.jpg",
+          "img": "/img/uploads/showoom1.jpg"
         }
       ]
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "sort": "news",
+      "collection_id": "61565f4928ace502ae904d6e:categories:BASIC:/calcas-basic-trend"
     }
   ]
 }
