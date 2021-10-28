@@ -2,7 +2,7 @@
   class="prices"
   :class="{ 'prices--literal': isLiteral, 'prices--big': isBig }"
 > 
-  <strong class="varejo">Preço Varejo</strong>
+  <strong class="varejo">VALOR</strong>
   <span
     v-if="comparePrice"
     class="prices__compare"
@@ -84,31 +84,4 @@
       </template>
     </div>
   </transition-group>
-  <div class="valor_atacado">
-    <hr>
-    <strong>Preço Atacado</strong>
-    <span class="atacado-price">
-      <strong class="prices__value">{{ formatMoney(priceAtacado) }}</strong>
-    </span>
-    <div
-      key="installments"
-      v-if="installmentsNumber > 1 && installmentValueAtacado"
-      class="prices__installments"
-    >
-      <small v-if="isLiteral">
-        {{ i19upTo }}
-      </small>
-      {{ installmentsNumber }}x
-      <small v-if="isLiteral">
-        {{ i19of }}
-      </small>
-      <span>
-        {{ formatMoney(installmentValueAtacado) }}
-      </span>
-      <small v-if="!monthlyInterest && isLiteral">
-        {{ i19interestFree }}
-      </small>
-    </div>
-    <a href="https://ajuda.usetrucco.com.br/support/solutions/articles/69000759400-pol%C3%ADtica-de-venda-e-trocas-para-atacado" class="detalhes-parcelamento" id="linkatacado" target="_blank">Saiba como comprar no atacado</a>
-  </div>
-</div>
+ 
