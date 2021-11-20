@@ -16,10 +16,6 @@
         "text": "SOBRE A TRUCCO"
       },
       {
-        "url": "https://www.usetrucco.com.br/pages/compra-presencial",
-        "text": "SHOWROOM SP"
-      },
-      {
         "text": "POLÍTICA DE VENDA E TROCAS PARA ATACADO",
         "url": "https://ajuda.usetrucco.com.br/support/solutions/articles/69000759400-pol%C3%ADtica-de-venda-e-trocas-para-atacado"
       },
@@ -34,10 +30,6 @@
       {
         "text": "REGRAS SALE",
         "url": "https://www.usetrucco.com.br/pages/regras-para-sale"
-      },
-      {
-        "url": "https://form.typeform.com/to/DGP3o41U",
-        "text": "SOLICITAÇÃO DE REPAROS"
       },
       {
         "url": "https://www.usetrucco.com.br/pages/ajuste-de-barras",
@@ -80,7 +72,7 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
+    "bradesco": false,
     "santander": false,
     "mastercard": true,
     "paypal": true,
