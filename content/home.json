@@ -7,27 +7,18 @@
       "autoplay": 9000,
       "slides": [
         {
+          "start": "2021-12-15T20:24:53.591Z",
+          "end": "2022-01-04T20:24:53.627Z",
+          "img": "/img/uploads/image0.jpeg",
+          "link": "https://ajuda.truccoatemporale.com.br/hc/pt-br/articles/4416043318679-PROMO%C3%87%C3%83O-NATAL-2021"
+        },
+        {
           "start": "2021-10-23T02:57:31.601Z",
           "end": "2021-10-23T02:57:31.628Z",
           "link": "template/public/img/uploads/showoom1.jpg",
           "img": "/img/uploads/showoom1.jpg"
-        },
-        {
-          "start": "2020-10-01T20:49:56.874Z",
-          "end": "",
-          "img": "/img/uploads/_alb3622-compressed.jpg",
-          "mobile_img": "/img/uploads/_alb3622-compressed.jpg"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "news",
-      "collection_id": "61565f4928ace502ae904d6e:categories:BASIC:/calcas-basic-trend",
-      "title": "NOSSOS ÚLTIMOS LANÇAMENTOS "
     }
   ]
 }
