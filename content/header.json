@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "PROMOÇÃO NATAL 2021 E ANO NOVO 2022. VEJA AQUI !",
-    "link": "https://ajuda.truccoatemporale.com.br/hc/pt-br/articles/4416043318679-PROMO%C3%87%C3%83O-NATAL-2021",
-    "background": "#b51a00",
-    "color": "#ffffff"
+    "text": "",
+    "link": "",
+    "background": "",
+    "color": ""
   },
   "contacts_stripe": {
     "pages": [],
@@ -15,5 +15,6 @@
     "random": 0,
     "full_width": true
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
