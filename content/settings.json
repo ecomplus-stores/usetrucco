@@ -7,6 +7,7 @@
     "custom": "clean-white"
   },
   "bg_color": "#db000a",
+  "repository": "ecomplus-stores/usetrucco",
   "logo": "/img/uploads/trucco-atemporale-branco.png",
   "name": "TRUCCO, atemporale",
   "short_name": "TRUCCO",
