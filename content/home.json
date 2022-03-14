@@ -10,13 +10,15 @@
           "start": "2021-12-15T20:24:53.591Z",
           "end": "2022-01-04T20:24:53.627Z",
           "img": "/img/uploads/image0.jpeg",
-          "link": "https://ajuda.truccoatemporale.com.br/hc/pt-br/articles/4416043318679-PROMO%C3%87%C3%83O-NATAL-2021"
+          "link": "https://ajuda.truccoatemporale.com.br/hc/pt-br/articles/4416043318679-PROMO%C3%87%C3%83O-NATAL-2021",
+          "full_width": false
         },
         {
           "start": "2021-10-23T02:57:31.601Z",
           "end": "",
           "link": "",
-          "img": "/img/uploads/showoom1.jpg"
+          "img": "/img/uploads/showoom1.jpg",
+          "full_width": false
         }
       ]
     }
